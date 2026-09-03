@@ -1,2 +1,2 @@
 # veracity-swedish
-Repository for the paper "Using LLMs for Text-Based Veracity Assessment of Swedish Verbal Statements"
+Repository for the paper "Text-Based Veracity Assessment of Swedish Verbal Statements"
